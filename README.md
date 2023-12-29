@@ -28,4 +28,8 @@ git branch -M master
 git remote add origin https://github.com/skreddy2231/my-pythintest-practice.git
 git push -u origin master
 
+created origin, check origin in git
+git remove -v
+
+
 ----->
