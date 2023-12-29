@@ -15,3 +15,4 @@ git commit -m "debug lof added"
 git rm deug.log
 git status
 git checkout -m "removed debug file"
+"# my-pythintest-practice" 
