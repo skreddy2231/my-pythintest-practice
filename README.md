@@ -16,3 +16,16 @@ git rm deug.log
 git status
 git checkout -m "removed debug file"
 "# my-pythintest-practice" 
+
+### create a new repository on the command line --->
+echo "# my-pythintest-practice" >> README.md
+git init
+git add README.md
+
+
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/skreddy2231/my-pythintest-practice.git
+git push -u origin master
+
+----->
