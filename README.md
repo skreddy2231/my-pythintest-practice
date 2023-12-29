@@ -33,3 +33,14 @@ git remove -v
 
 
 ----->
+
+
+# Add a new remote upstream repo that will be synced with the origin repo
+-- git remote add upstream <original-repo-url>
+
+# this will fetch data from upstream
+-- git fetch upstream
+
+# Navigate to branch
+git checkout <branch-name>
+
